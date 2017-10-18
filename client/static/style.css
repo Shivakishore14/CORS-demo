@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+}
+body{
+    height: 100vh;
+    background-color: #eee;
+}
+.container {
+    padding: 50px;
+}
+.response-wrapper{
+    width: 60vw;
+    margin: 10px;
+    color: #6A6A6A;
+}
+.response-wrapper .response-body{
+    height: 23px;
+    border: 2px solid cornsilk;
+    border-radius: 5px;
+}
+h2{
+    color: #666;
+}

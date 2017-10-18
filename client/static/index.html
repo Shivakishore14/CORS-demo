@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>CORS demo</title>
+        <script src="jquery.js"></script>
+        <script src="script.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <center>
+            <div class="container">
+                <h2>CORS Demo</h2>
+                <br>
+                <div class="response-wrapper">
+                    <div class="response-body" id="response">Click a button below</div>
+                </div>
+                <div class="button-wrapper">
+                    <button onclick="requestEndpoint('http://localhost:3000/endpoint1')"> Endpoint 1</button>
+                    <button onclick="requestEndpoint('http://localhost:3000/endpoint2')"> Endpoint 2</button>
+                </div>
+            </div>
+        </center>
+    </body>
+</html>
