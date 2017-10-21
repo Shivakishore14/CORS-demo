@@ -1,5 +1,5 @@
 # CORS-demo
-This repository contains the code used in the [youtube video](http://youtube.com/)
+This repository contains the code used in the [youtube video](https://www.youtube.com/watch?v=MXkgYf1pnOA)
 
 ## Setup
 1. Clone/ Download the repository
